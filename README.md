@@ -1,4 +1,12 @@
-### Hi there 👋
+### 핀테크에 관심 있는 대학생입니다.🧑🏻‍💻👋
+
+#### 🌱 현재 스프링프레임워크와 vue.js를 공부 중입니다.💪🏻
+
+🙏THE fear of the LORD is the beginning of knowledge <br>
+Fools despise wisdom and instruction.
+
+#### PROVERBS 1:7
+
 
 <!--
 **SangJLee1103/SangJLee1103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
