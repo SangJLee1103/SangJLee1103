@@ -2,7 +2,7 @@
 
 ### 🌱 현재 스프링프레임워크와 vue.js를 공부 중입니다.💪🏻<br><br>
 
-🙏THE fear of the LORD is the beginning of knowledge <br>
+🙏The fear of the LORD is the beginning of knowledge <br>
 Fools despise wisdom and instruction.<br>
 
 ### PROVERBS 1:7
