@@ -1,6 +1,5 @@
 ## 핀테크에 관심 있는 대학생입니다.🧑🏻‍💻👋 <br><br>
 
-### 🌱 현재 스프링프레임워크 공부 중입니다.💪🏻<br><br>
 
 🙏The fear of the LORD is the beginning of knowledge <br>
 Fools despise wisdom and instruction.<br>
