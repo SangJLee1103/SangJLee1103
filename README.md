@@ -6,7 +6,3 @@ Fools despise wisdom and instruction.<br>
 
 ### PROVERBS 1:7
 
-###Stack
-<hr>
-
-<img alt="Swift" src ="https://img.shields.io/badge/Swift.svg?&style=for-the-badge&logo=Swift&logoColor=white"/>
