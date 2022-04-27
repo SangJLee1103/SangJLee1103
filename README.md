@@ -9,7 +9,7 @@ Fools despise wisdom and instruction.<br>
 ###Stack
 <hr>
 
-<img alt="Swift" src ="https://img.shields.io/badge/Swift-red.svg?&style=for-the-badge&logo=swift&logoColor=orange"/>
-<img alt="Swift" src ="https://img.shields.io/badge/Swift-red.svg?&style=for-the-badge&logo=swift&logoColor=orange"/>
+<img alt="Swift" src ="https://img.shields.io/badge/Swift-red.svg?&style=for-the-badge&logo=swift&logoColor=orange"/> <img alt="Swift" src ="https://img.shields.io/badge/Swift-red.svg?&style=for-the-badge&logo=swift&logoColor=orange"/>
+
 <img alt="Swift" src ="https://img.shields.io/badge/Swift-red.svg?&style=for-the-badge&logo=swift&logoColor=orange"/>
 
