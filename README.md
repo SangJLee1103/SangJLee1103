@@ -1,4 +1,4 @@
-## 핀테크에 관심 있는 대학생입니다.🧑🏻‍💻👋 <br><br>
+## IOS 개발자를 준비중인 대학생입니다.🧑🏻‍💻👋 <br><br>
 
 
 🙏The fear of the LORD is the beginning of knowledge <br>
@@ -6,18 +6,6 @@ Fools despise wisdom and instruction.<br>
 
 ### PROVERBS 1:7
 
+<img alt="Swift" src ="https://img.shields.io/badge/Swift-orange.svg?&style=for-the-badge&logo=swift&logoColor=red"/>
+                                                      
 
-<!--
-**SangJLee1103/SangJLee1103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
