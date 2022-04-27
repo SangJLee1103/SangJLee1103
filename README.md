@@ -9,5 +9,5 @@ Fools despise wisdom and instruction.<br>
 ###Stack
 <hr>
 
-<img alt="Swift" src ="https://img.shields.io/badge/Swift-red.svg?&style=for-the-badge&logo=swift&logoColor=orange"/> <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-Yellow.svg?&style=for-the-badge&logo=JavaScript&logoColor=yellow"/> <img alt="NodeJS" src ="https://img.shields.io/badge/NodeJS-green.svg?&style=for-the-badge&logo=NodeJS&logoColor=green"/>
+<img alt="Swift" src ="https://img.shields.io/badge/Swift-red.svg?&style=for-the-badge&logo=swift&logoColor=white"/> <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-yellow.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/> <img alt="Node" src ="https://img.shields.io/badge/Node-green.svg?&style=for-the-badge&logo=Node&logoColor=white"/>
 
