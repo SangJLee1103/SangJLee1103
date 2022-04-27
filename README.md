@@ -10,4 +10,4 @@ Fools despise wisdom and instruction.<br>
 
 <hr>
 
-<img src="https://img.shields.io/badge/Swift-orange?style=flat-square&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/NodeExpress-green?style=flat-square&logo=NodeExpress&logoColor=white"/>
+<img src="https://img.shields.io/badge/Swift-orange?style=flat-square&logo=Swift&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-green?style=flat-square&logo=Node.js&logoColor=white"/>
