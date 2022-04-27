@@ -6,6 +6,6 @@ Fools despise wisdom and instruction.<br>
 
 ### PROVERBS 1:7
 
-<img alt="Swift" src ="https://img.shields.io/badge/Swift-orange.svg?&style=for-the-badge&logo=swift&logoColor=red"/>
+<img alt="Swift" src ="https://img.shields.io/badge/Swift-red.svg?&style=for-the-badge&logo=swift&logoColor=orange"/>
                                                       
 
