@@ -15,4 +15,4 @@ Fools despise wisdom and instruction.<br>
 ## Tools🔨
 
 <img src="https://img.shields.io/badge/Git-red?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Figma-#F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Slack-#4A154B?style=flat-square&logo=Slack&logoColor=white"/> <a href="https://velog.io/@colorful-stars" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Slack-#4A154B?style=flat-square&logo=Slack&logoColor=white"/> <a href="https://velog.io/@lsj16632" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
