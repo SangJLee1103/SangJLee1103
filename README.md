@@ -7,6 +7,7 @@ Fools despise wisdom and instruction.<br>
 ### PROVERBS 1:7
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SangJLee1103&show_icons=true&theme=merko)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=깃허브아이디)](https://github.com/SangJuLee1103/github-readme-stats)
 
 ## My tech stack📚
 
