@@ -12,5 +12,5 @@ Fools despise wisdom and instruction.<br>
 
 ## Tools🔨
 
-<img src="https://img.shields.io/badge/Git-red?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/figma-#F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-red?style=flat-square&logo=Git&logoColor=white"/> <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Figma-#F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
 
