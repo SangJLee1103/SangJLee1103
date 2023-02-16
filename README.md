@@ -1,4 +1,4 @@
-## IOS 개발자를 준비중인 대학생입니다.🧑🏻‍💻👋 <br><br>
+## iOS 개발자입니다.🧑🏻‍💻👋 <br><br>
 
 
 🙏The fear of the LORD is the beginning of knowledge <br>
